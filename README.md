@@ -64,7 +64,7 @@ APP_PW = "your_app_password"
 | GROUP_ID | ID Grup Notifikasi |
 | OWNER_ID | User ID Owner Bot |
 | API_URL | Endpoint API |
-| API_KEY | **wilzrequirements.txtfree** |
+| API_KEY | **wilzfree** |
 | EMAIL | Email API |
 | APP_PW | Password API |
 
