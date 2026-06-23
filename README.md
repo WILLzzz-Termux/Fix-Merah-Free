@@ -76,6 +76,7 @@ APP_PW = "your_app_password"
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
+pkg install nano -y
 ```
 **Clone Repo**
 ```bash
@@ -89,6 +90,11 @@ cd Fix-Merah-Free
 ```bash
 pip install -r requirements.txt
 ```
+**Edit Config**
+```bash
+nano fixfree.py
+```
+*Ganti Yang seperti di atas, lihat Konfigurasi*
 **Run**
 ```bash
 python fixfree.py
