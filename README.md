@@ -72,11 +72,21 @@ APP_PW = "your_app_password"
 
 ## 🚀 Menjalankan Bot
 
+**Install (Wajib)**
+```bash
+pkg update && pkg upgrade -y
+pkg install git -y
+```
+**Clone Repo**
+```bash
+git clone https://github.com/WILLzzz-Termux/Fix-Merah-Free.git
+```
+**Run**
 ```bash
 python fixfree.py
 ```
 
-Jika berhasil:
+**Jika berhasil:**
 
 ```text
 BOT FIX MERAH FREE BY @Teamwilz Online...
