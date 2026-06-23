@@ -64,7 +64,7 @@ APP_PW = "your_app_password"
 | GROUP_ID | ID Grup Notifikasi |
 | OWNER_ID | User ID Owner Bot |
 | API_URL | Endpoint API |
-| API_KEY | API Key |
+| API_KEY | **wilzrequirements.txtfree** |
 | EMAIL | Email API |
 | APP_PW | Password API |
 
@@ -82,8 +82,12 @@ pkg install git -y
 git clone https://github.com/WILLzzz-Termux/Fix-Merah-Free.git
 ```
 **Open Directory**
-```
+```bash
 cd Fix-Merah-Free
+```
+**Install Module**
+```bash
+pip install -r requirements.txt
 ```
 **Run**
 ```bash
