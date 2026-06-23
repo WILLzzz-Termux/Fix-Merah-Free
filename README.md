@@ -81,6 +81,10 @@ pkg install git -y
 ```bash
 git clone https://github.com/WILLzzz-Termux/Fix-Merah-Free.git
 ```
+**Open Directory**
+```
+cd Fix-Merah-Free
+```
 **Run**
 ```bash
 python fixfree.py
